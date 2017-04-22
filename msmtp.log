@@ -1,0 +1,3 @@
+Jul 16 19:32:26 host=172.17.1.248 tls=off auth=off from=no-reply@maxclean.help recipients=juliya8905@gmail.com mailsize=6866 smtpstatus=250 smtpmsg='250 2.0.0 Ok: queued as 0CCD07CA05' exitcode=EX_OK
+Jul 16 19:32:26 host=172.17.1.248 tls=off auth=off from=no-reply@maxclean.help recipients=hello@gettidy.ru,luckylifek@gmail.com mailsize=9887 smtpstatus=250 smtpmsg='250 2.0.0 Ok: queued as 109A77CA06' exitcode=EX_OK
+Jul 16 19:32:26 host=172.17.1.248 tls=off auth=off from=no-reply@maxclean.help recipients=juliya8905@gmail.com mailsize=6415 smtpstatus=250 smtpmsg='250 2.0.0 Ok: queued as 13F2C7CA07' exitcode=EX_OK
